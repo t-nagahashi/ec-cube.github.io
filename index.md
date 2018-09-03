@@ -14,8 +14,7 @@ permalink: /
  ドキュメントへの追記、記載内容の修正についてはEC-CUBE本体と同様に[GitHub](https://github.com/EC-CUBE/ec-cube.github.io/){:target="_blank"
 }で受け付けております。
 
-ドキュメント化に向けた情報、実装時参考にしたい情報については、随時[Issue](https://github.com/EC-CUBE/ec-cube/issues/3380){:target="_blank"
-}を更新しております。
+ドキュメント化に向けた情報、実装時参考にしたい情報については、随時[Issue](https://github.com/EC-CUBE/ec-cube/issues/3380){:target="_blank"}を更新しております。
 
 運用者向けには以下のサイトをご覧ください。
 
