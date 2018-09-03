@@ -14,6 +14,9 @@ permalink: /
  ドキュメントへの追記、記載内容の修正についてはEC-CUBE本体と同様に[GitHub](https://github.com/EC-CUBE/ec-cube.github.io/){:target="_blank"
 }で受け付けております。
 
+ドキュメント化に向けた情報、実装時参考にしたい情報については、随時[Issue](https://github.com/EC-CUBE/ec-cube/issues/3380){:target="_blank"
+}を更新しております。
+
 運用者向けには以下のサイトをご覧ください。
 
 + [EC-CUBE 3運用マニュアル（株式会社クロスキューブ様）](https://www.xross-cube.com/service/ec-cube%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA/eccube3-manual/){:target="_blank"}
